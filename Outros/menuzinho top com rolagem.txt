@@ -1,0 +1,70 @@
+
+	<div class="container"> 
+	
+		<div class="row">
+		
+			<div class="col-12 text-center my-5"> 
+				<h1 class="display-3"> Teste </h1>
+				<p> Um teste apenas </p>
+			</div>
+			
+		</div>
+	
+	</div>
+	
+	<div class="row mb-5"> 
+		<div class="col-3">
+			<nav id="navbarVertical" class="navbar navbar-light bg-light">
+				<nav class="nav nav-pills flex-column"> 
+				
+					<a class="nav-link" href="#item1"> aushaushauhs </a>
+						<nav class="nav nav-pills flex-column"> 
+							<a class="nav-link ml-3" href="#item1-1"> É MERME É </a>
+							<a class="nav-link ml-3" href="#item1-2"> pior que é mermo </a>
+						</nav>
+
+					<a class="nav-link my-2" href="#item2"> KKKKKKKKKKKK </a>
+					
+					<a class="nav-link" href="#item3"> jajajajajja </a>
+						<nav class="nav nav-pills flex-column"> 
+							<a class="nav-link ml-3" href="#item3-1"> Xvideos </a>
+							<a class="nav-link ml-3" href="#item3-2"> redtube </a>
+						</nav>
+						
+					<a class="nav-link my-2" href="#item3"> KKKKKKKKKKKK </a>
+					
+				</nav>
+			</nav>
+		</div>
+	
+		<div class="col-9"> 
+			<div data-spy="scroll" data-target="#navbarVertical" data-offset="0" class="???????">
+				
+				<h4 id="item1"> E vou seguindo assim:  </h4>
+					<p> Já era amor antes de ser Já era seu antes do sim Já era nós, antes que eu pudesse escolher Eu te encontrei e me perdi</p>
+				
+					<h5 id="item1-1"> Era meu jeito louco de amar: </h5>
+						<p> Dizem que a vida ensina, mas você que me ensinou o que é o amor </p>
+
+				<h5 id="item1-2"> VIDAAA: </h5>
+					<p> Me desculpe por tudo que eu te fiz passar Era meu jeito torto de amar </p>
+				
+					<h4 id="item2"> Você entrou na minha vida: </h5>
+						<p> Você me aceitou e o seu amor cicatrizou </p>
+				
+						<h5 id="item3"> Terminei: </h5>
+							<p> ain pai paraaaaaaannn </p>
+
+						<h5 id="item3-1"> Toma karen: </h5>
+							<p> eeeeeeeeeeeeeeeeeeeiiiiithaaaaaaaa </p>
+					
+						<h5 id="item3-1"> Ramiro é gay: </h5>					
+							<p> verdade, é mesmo. </p>			
+			
+			
+			</div>
+		
+		</div>
+	
+	</div>
+	

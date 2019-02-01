@@ -1,0 +1,20 @@
+
+
+	
+	<!-- Parte de baixo do site. Imagens nos cantos com o card centralizado-->
+	
+	<br>
+		<img src="Imagens/Slide1.jpg" class="rounded float-left" width="370" height="400" alt="...">
+		<img src="Imagens/Slide2.jpg" class="rounded float-right" width="370" height="400" alt="...">
+		
+			<div align="center"> 
+				<div class="card" style="width: 18rem;">
+					<img class="card-img-top" src="Imagens/Licita.jpg" alt="Imagem de capa do card">
+						<div class="card-body">
+							<h5 class="card-title">Novas licitações disponiveis!</h5>
+							<p class="card-text">Um grande passo para trabalhar conosco. Confira!</p>
+							<a href="#" class="btn btn-primary">Visitar</a>
+						</div>
+				</div>
+			</div>
+	 
